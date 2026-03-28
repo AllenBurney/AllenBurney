@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Allen%20Burney&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20CS%20@%20St.%20Xavier's%2C%20Kolkata&descAlignY=65&descSize=16&descColor=a8c8e8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Allen%20Burney&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=CS%20Student%20@%20St.%20Xavier's%2C%20Kolkata%20%7C%20MERN%20Stack%20%7C%20DSA&descAlignY=65&descSize=16&descColor=a8c8e8" />
 
 </div>
 
@@ -72,9 +72,9 @@ A public-interest web project surfacing criminal records of politicians for civi
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AllenBurney&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f2027&title_color=a8c8e8&icon_color=4a9ebb&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=AllenBurney&theme=dark&hide_border=true&background=0f2027&stroke=4a9ebb&ring=4a9ebb&fire=a8c8e8&currStreakLabel=a8c8e8&sideLabels=a8c8e8&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenBurney&layout=compact&theme=github_dark&hide_border=true&bg_color=0f2027&title_color=a8c8e8&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenBurney&layout=compact&theme=github_dark&hide_border=true&bg_color=0f2027&title_color=a8c8e8&text_color=c9d1d9&cache_seconds=1800" />
 
 </div>
 
