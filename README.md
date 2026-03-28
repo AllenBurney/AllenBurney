@@ -73,8 +73,7 @@ A public-interest web project surfacing criminal records of politicians for civi
 <div align="center">
 
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=AllenBurney&theme=dark&hide_border=true&background=0f2027&stroke=4a9ebb&ring=4a9ebb&fire=a8c8e8&currStreakLabel=a8c8e8&sideLabels=a8c8e8&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenBurney&layout=compact&theme=github_dark&hide_border=true&bg_color=0f2027&title_color=a8c8e8&text_color=c9d1d9&cache_seconds=1800" />
+
 
 </div>
 
