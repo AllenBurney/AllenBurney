@@ -68,7 +68,7 @@ A public-interest web project surfacing criminal records of politicians for civi
 
 ---
 
-## GitHub Stats
+## GitHub/LeetCode Stats
 
 <div align="center">
 
