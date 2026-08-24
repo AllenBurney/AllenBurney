@@ -9,7 +9,7 @@
 
 ## About Me
 
-CS student at **St. Xavier's College, Kolkata** with a focus on building scalable, real-world applications. I work across the full stack — from system-level C/C++ to modern web interfaces — with a keen interest in **Database Management Systems** and **Data Structures & Algorithms**.
+CS student at **St. Xavier's College, Kolkata** with a focus on building scalable, real-world applications. I work across the full stack — from system-level C/C++ to modern web interfaces, with a keen interest in **Database Management Systems** and **Data Structures & Algorithms**.
 
 I believe in writing clean, purposeful code and enjoy solving structured problems as much as building things people can use.
 
