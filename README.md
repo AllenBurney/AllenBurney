@@ -1,5 +1,5 @@
 <div align="center">
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenBurney&layout=compact&theme=dark)
 
 
 <!-- Header Banner -->
