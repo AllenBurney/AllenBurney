@@ -1,5 +1,7 @@
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=AllenBurney&color=blue)
+
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Allen%20Burney&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=MERN%20Stack%20%7C%20DSA%20%7C%20DBMS&descAlignY=65&descSize=16&descColor=a8c8e8" />
 
